@@ -81,7 +81,6 @@ Building my project portfolio and preparing for hackathons at UW.
 ---
 
 <!-- ===================== PROJECT UI ===================== -->
-
 <div align="center">
 
 <img
@@ -93,7 +92,7 @@ Building my project portfolio and preparing for hackathons at UW.
 
 <table>
 <tr>
-<td width="33%" align="center"><sub><b>PROJECT_01</b></sub><br><b>coming soon</b><br><br><img src="https://img.shields.io/badge/status-building-2563EB?style=flat-square" /><br><img src="https://img.shields.io/badge/live-soon-B6C2D2?style=flat-square" /> <img src="https://img.shields.io/badge/source-soon-B6C2D2?style=flat-square" /></td>
+<td width="33%" align="center"><sub><b>PROJECT_01</b></sub><br><b>Demon Love Test</b><br><sub>Meta romance × yandere demon</sub><br><br><img src="https://img.shields.io/badge/12K%2B-views-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/712-likes-5B8DEF?style=flat-square" /><br><br><a href="https://peaceful-gumption-764d67.netlify.app/?v=14"><img src="https://img.shields.io/badge/LIVE-DEMO-3B82F6?style=for-the-badge" /></a> <a href="https://github.com/noyuyu/demon-love-test"><img src="https://img.shields.io/badge/SOURCE-CODE-1E40AF?style=for-the-badge" /></a></td>
 <td width="33%" align="center"><sub><b>PROJECT_02</b></sub><br><b>coming soon</b><br><br><img src="https://img.shields.io/badge/status-dreaming-5B8DEF?style=flat-square" /><br><img src="https://img.shields.io/badge/live-soon-C7D2DF?style=flat-square" /> <img src="https://img.shields.io/badge/source-soon-C7D2DF?style=flat-square" /></td>
 <td width="33%" align="center"><sub><b>PROJECT_03</b></sub><br><b>coming soon</b><br><br><img src="https://img.shields.io/badge/status-loading-7EA6E0?style=flat-square" /><br><img src="https://img.shields.io/badge/live-soon-D7DFE8?style=flat-square" /> <img src="https://img.shields.io/badge/source-soon-D7DFE8?style=flat-square" /></td>
 </tr>
